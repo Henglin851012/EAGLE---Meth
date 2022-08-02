@@ -1,0 +1,5 @@
+# SEQ	POS	REF	ALT	Reads	RefReads	AltReads	Prob	Odds	Set
+chr22	7	A	T	4	0	0	0.029865	-2.811575	[]
+chr22	32	T	A	12	0	0	0.000611	-6.923690	[]
+chr22	53	C	T	8	0	0	0.000136	-7.698970	[]
+chr22	76	G	A	10	0	0	0.049256	-2.709270	[]
