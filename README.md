@@ -7,4 +7,6 @@
 ---
 ## Usage
 ---
-``` git clone ```
+```git 
+git clone https://github.com/Henglin851012/EAGLE-Meth.git 
+```
